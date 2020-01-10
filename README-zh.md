@@ -3,7 +3,7 @@
 
 ## 其他语言：
 
-README  [英文]() | 中文
+README  [英文](https://github.com/Andrew-xj/Shortest_Underground_Route/tree/master) | 中文
 
 ## 项目介绍：
 
