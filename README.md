@@ -1,2 +1,0 @@
-# Shortest_Underground_Route
-基于迪杰特斯拉算法实现简易版地铁最短路径查寻
